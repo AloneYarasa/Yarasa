@@ -8,5 +8,7 @@
  * @author Admin
  */
 public class YarasadanGite {
-    
+    public static void main(String[] args) {
+        System.out.println("Mall!");
+    }
 }
